@@ -27,7 +27,7 @@ Explore our public repositories to see what we're working on. Pinned repos highl
 
 - Found a bug or have an idea? Open an issue in the relevant repository.
 - Want to contribute? Pull requests are welcome. Please check the repo's `CONTRIBUTING.md` first, if present.
-- Questions or collaboration inquiries? Reach out at **[your-email@example.com]**.
+- Questions or collaboration inquiries? Reach out at **kilokilogames@gmail.com**.
 
 ## Find Us
 
