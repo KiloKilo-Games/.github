@@ -31,9 +31,6 @@ Explore our public repositories to see what we're working on. Pinned repos highl
 
 ## Find Us
 
-- Website: None yet
-- Discord: None yet
-- X / Twitter: None yet
 - itch.io / Steam: kilokilo-games.itch.io
 - Gmail: kilokilogames@gmail.com
 
