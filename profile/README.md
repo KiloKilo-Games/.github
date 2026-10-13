@@ -1,3 +1,5 @@
+![KiloKilo Games Banner](./banner.png)
+
 # KiloKilo Games
 
 **An independent game studio, started by two friends in a dorm room.**
