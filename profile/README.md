@@ -1,4 +1,4 @@
-![KiloKilo Games Banner](./banner.png)
+![KiloKilo Games Banner](./D5AB1752-8D2B-4524-955A-B2DDFA384FBB.png)
 
 # KiloKilo Games
 
